@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def reverse_each_word(sentence)
   new_arry = []
   new_sentence = sentence.split 
@@ -10,3 +11,5 @@ def reverse_each_word(sentence)
   reversed_sentence_array = splitted_sentence.collect{|s| s.reverse}
   reversed_sentence_array.join(" ")
 end
+=======
+ 
